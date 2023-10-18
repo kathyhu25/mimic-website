@@ -23,6 +23,8 @@ The MIMIC-Northwestern database is currently organized into two distinct modules
 
 - [Hosp](/docs/mimic-northwestern/modules/hosp/) - Hospital level data including patients, admissions, labs, ICD diagnoses for billing purposes, prescriptions, and electronic medication administration records.
 - [ICU](/docs/mimic-northwestern/modules/icu/) - ICU level data including icu stays, procedure events, chartevents (vital signs). 
+- [Derived Concept Mappings](/docs/mimic-northwestern/modules/concept-mappings) - derived mapping concepts within MIMIC-Northwestern database.
+
 
 {{% pageinfo %}}
 The MIMIC-Northwestern database is not yet released and its structure is subject to change.

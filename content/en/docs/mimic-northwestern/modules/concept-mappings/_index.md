@@ -9,4 +9,4 @@ description: >
 
 Standard terminology provides the foundation required for health information exchange and the ability to merge data from two disparate sources. The data dictionaries for mapping include vital signs, lab results, medications, and procedures. The concepts are mapped to the common terminology standards including Logical Observation Identifiers Names and Codes (LOINC) for vital signs and lab results, RxNorm for medications, and the Systematized Nomenclature of Medicine Clinical Terms (SNOMED CT) for procedures. COVID related terms are also highlighted as part of the dictionary of terminologies, specifically for labs and medications.
 
-Derived concept mappings for both mimic and northwestern will be released on the [MIMIC-Code Repository](https://github.com/MIT-LCP/mimic-code).
+Commonly occurring MIMIC and NW labels associated with frequent events were mapped to standardized codes. Derived concept mappings for both MIMIC and Northwestern will be released on the [MIMIC-Code Repository](https://github.com/MIT-LCP/mimic-code).
